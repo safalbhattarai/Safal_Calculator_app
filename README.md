@@ -21,3 +21,5 @@ calculator
 >>>>>>> 4d74d802a762e6a5f13e3ab4db0947c65f593ca8
 
 ![Screenshot_1733897281](https://github.com/user-attachments/assets/84b54156-9b75-4acd-a4d0-674f54053c2e)
+
+![Screenshot_1733897389](https://github.com/user-attachments/assets/202f6afe-18bd-4d52-bb32-1843da67757a)
